@@ -30,8 +30,8 @@ const CONFIG = {
         },
         second: {
             text: "will you be my forever Valentine?",               // For the love meter
-            YesBtn: "yes!",                                         // Text before the percentage
-            noBtn: "No"                                            // Text for the next button
+            YesBtn: "yes!",                                         // Text for "Yes" button
+            noBtn: "No"                                            // Text for "No" button
         },
         third: {
             text: "How exctied are you to marry me?",                // The big question!
