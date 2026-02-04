@@ -29,14 +29,14 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "will you be my forever Valentine?",                          // For the love meter
-            YesBtn: "yes!",                                   // Text before the percentage
-            noBtn: "No"                                         // Text for the next button
+            text: "will you be my forever Valentine?",               // For the love meter
+            YesBtn: "yes!",                                         // Text before the percentage
+            noBtn: "No"                                            // Text for the next button
         },
         third: {
-            text: "Will you be my forever Valentine?", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "How exctied are you to marry me?",                // The big question!
+            StartTxt: "This much!",                                 // Text before percentage
+            NextBtn: "Next"                                        //  Next button text
         }
     },
 
